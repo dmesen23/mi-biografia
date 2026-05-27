@@ -1,4 +1,4 @@
-# Mi Biograf¡a 
+# Mi BiografÂ¡a 
 
 
 **Nombre completo:** Davis Alberto Bejarano Mesen
@@ -9,4 +9,9 @@
 
 ## Contacto
 
-- Correo electrónico: dmesen23@gmail.com
+- Correo electrÃ³nico: dmesen23@gmail.com
+## Hobbies
+
+- Leer
+- Escuchar mÃºsica
+- Ver series

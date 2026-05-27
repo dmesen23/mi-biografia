@@ -9,7 +9,7 @@
 
 ## Contacto
 
-- Correo electrónico: dmesen23@gmail.com
+- Correo electrónico: dmesen23@ficticio.com
 ## Hobbies
 
 - Leer
